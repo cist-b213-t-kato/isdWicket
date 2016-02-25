@@ -1,4 +1,4 @@
-body, p, li, a { font-family: georgia, times, serif;font-size:13pt;}
+body, p, li, a { font-family: Meiryo, georgia, times, serif;font-size:13pt;}
 h1, h2, h3 { font-family: 'Yanone Kaffeesatz', arial, serif; }
 body { margin:0;padding:0;}
 #hd {
@@ -29,7 +29,7 @@ body { margin:0;padding:0;}
 	font-size:36pt;
 	display: inline;
 }
-#logo img { 
+#logo img {
 	display:inline;
 	vertical-align: bottom;
 	margin-left : 50px;
